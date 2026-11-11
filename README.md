@@ -19,10 +19,12 @@
 
 ### Sobre mí
 
-- 🐧 Usuario de Gentoo: `USE` flags, `make.conf` y mucha paciencia
-- ⚙️ Programación de sistemas en C, C++ y Rust
-- 🛠️ Me gusta entender cómo funcionan las cosas por dentro
-- 🌐 Hablo español
+<img src="https://cdn.simpleicons.org/gentoo/54487A" height="18" alt="Gentoo" />&nbsp; Usuario de Gentoo: `USE` flags, `make.conf` y mucha paciencia<br>
+<img src="https://cdn.simpleicons.org/c/A8B9CC" height="18" alt="C" />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="18" alt="C++" />
+<img src="https://cdn.simpleicons.org/rust/DEA584" height="18" alt="Rust" />&nbsp; Programación de sistemas en C, C++ y Rust<br>
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="18" alt="Linux" />&nbsp; Me gusta entender cómo funcionan las cosas por dentro<br>
+<img src="https://cdn.simpleicons.org/googletranslate/4285F4" height="18" alt="Idioma" />&nbsp; Hablo español
 
 ### Stack
 
@@ -39,8 +41,3 @@
   <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- Opcional: estadísticas minimalistas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent" />
-</p>
--->
