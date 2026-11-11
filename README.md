@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="moon-blossoms.webp" alt="Moon Blossoms" width="100%" />
+</p>
+
 <h1 align="center">Macaco</h1>
 
 <p align="center">
@@ -41,3 +45,8 @@
   <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<!-- Opcional: estadísticas minimalistas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+-->
