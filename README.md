@@ -2,7 +2,7 @@
   <img src="moon-blossoms.webp" alt="Moon Blossoms" width="100%" />
 </p>
 
-<h1 align="center">Macaco</h1>
+<h1 align="center">Samael</h1>
 
 <p align="center">
   <i>Compilando todo desde el código fuente.</i>
