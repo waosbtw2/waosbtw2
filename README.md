@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="moon-blossoms.webp" alt="Moon Blossoms" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/rosette.svg" width="130" alt="" />
 </p>
 
@@ -48,11 +44,11 @@
 
 <div align="center">
 
-| ✠ | |
+| ☠︎ | |
 |:---:|:---|
-| ✝ **Sistema** | Gentoo Linux |
-| ⸸ **Lenguajes** | C ✝ C++ ✝ Rust ✝ Bash |
-| ☩ **Herramientas** | Git ✝ Neovim ✝ GCC ✝ Clang ✝ Cargo ✝ Make ✝ CMake |
+| ⛧ **Sistema** | <img src="https://cdn.simpleicons.org/gentoo/A3141E" height="16" alt="Gentoo Linux" />&nbsp;Gentoo Linux |
+| ⸸ **Lenguajes** | <img src="https://cdn.simpleicons.org/c/C09A45" height="16" alt="C" />&nbsp;C &nbsp;⛧&nbsp; <img src="https://cdn.simpleicons.org/cplusplus/C09A45" height="16" alt="C++" />&nbsp;C++ &nbsp;⛧&nbsp; <img src="https://cdn.simpleicons.org/rust/C09A45" height="16" alt="Rust" />&nbsp;Rust &nbsp;⛧&nbsp; <img src="https://cdn.simpleicons.org/gnubash/C09A45" height="16" alt="Bash" />&nbsp;Bash |
+| ☠︎ <img src="https://cdn.simpleicons.org/gnu/A3141E" height="16" alt="GNU" />&nbsp;**Herramientas** | <img src="https://cdn.simpleicons.org/git/C09A45" height="16" alt="Git" />&nbsp;Git &nbsp;⸸&nbsp; <img src="https://cdn.simpleicons.org/neovim/C09A45" height="16" alt="Neovim" />&nbsp;Neovim &nbsp;⸸&nbsp; <img src="https://cdn.simpleicons.org/gnu/C09A45" height="16" alt="GCC" />&nbsp;GCC &nbsp;⸸&nbsp; <img src="https://cdn.simpleicons.org/llvm/C09A45" height="16" alt="Clang" />&nbsp;Clang &nbsp;⸸&nbsp; <img src="https://cdn.simpleicons.org/rust/C09A45" height="16" alt="Cargo" />&nbsp;Cargo &nbsp;⸸&nbsp; <img src="https://cdn.simpleicons.org/gnu/C09A45" height="16" alt="Make" />&nbsp;Make &nbsp;⸸&nbsp; <img src="https://cdn.simpleicons.org/cmake/C09A45" height="16" alt="CMake" />&nbsp;CMake |
 
 </div>
 
