@@ -83,4 +83,4 @@
   <img src="assets/skyline.svg" width="100%" alt="Catedral gótica bajo la luna, con murciélagos" />
 </p>
 
-<p align="center">✝ &nbsp;✠&nbsp; ☩ &nbsp;⸸&nbsp; ☩ &nbsp;✠&nbsp; ✝</p>
+<p align="center"> ⊱ ─── ⋆⋅ ♰ ⋅⋆ ─── ⊰ </p>
