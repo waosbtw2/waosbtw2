@@ -52,7 +52,7 @@
 
 </div>
 
-<h2 align="center">✠ &nbsp;𝕽𝖎𝖙𝖚𝖆𝖑&nbsp; ✠</h2>
+<h2 align="center">✦ &nbsp;𝕽𝖎𝖙𝖚𝖆𝖑&nbsp; ✦</h2>
 
 <p align="center"><i>Cada mañana, el mismo conjuro:</i></p>
 
@@ -66,18 +66,13 @@
   <img src="assets/divider.svg" width="600" alt="" />
 </p>
 
-<h2 align="center">⸸ &nbsp;𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖔&nbsp; ⸸</h2>
+<h2 align="center">𓂀 &nbsp;𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖔&nbsp; 𓂀 </h2>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-0b0708?style=for-the-badge&logo=github&logoColor=c09a45&labelColor=0b0708&color=5e0b12" alt="GitHub" /></a>
-  <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-0b0708?style=for-the-badge&logo=gmail&logoColor=c09a45&labelColor=0b0708&color=5e0b12" alt="Email" /></a>
+  <a href="https://github.com/waosbtw2"><img src="https://img.shields.io/badge/GitHub-0b0708?style=for-the-badge&logo=github&logoColor=c09a45&labelColor=0b0708&color=5e0b12" alt="GitHub" /></a>
+  <a href=" "><img src="https://img.shields.io/badge/Email-0b0708?style=for-the-badge&logo=gmail&logoColor=c09a45&labelColor=0b0708&color=5e0b12" alt="Email" /></a>
 </p>
 
-<!-- Opcional: estadísticas con colores góticos
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0b0708&title_color=a3141e&text_color=d8ccb6&icon_color=c09a45" />
-</p>
--->
 
 <p align="center">
   <img src="assets/skyline.svg" width="100%" alt="Catedral gótica bajo la luna, con murciélagos" />
