@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rosette.svg" width="130" alt="" />
+  <img src="assets/banner.svg" width="100%" height="50" alt="Cementerio gótico con murciélagos" />
 </p>
 
 <h1 align="center">✝ &nbsp;𝕾𝖆𝖒𝖆𝖊𝖑&nbsp; ✝</h1>
